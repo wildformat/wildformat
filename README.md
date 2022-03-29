@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @wildformat
-- 👀 I’m interested in building scalable solutions to challenging problems. I am a huge believer in having strong foundational knowledge over nuanced tooling/language skills. I enjoy studying data structures, algorithms & distributed systems in my spare time.
-- 🌱 I’m currently learning docker and kubernetes and their use cases in data science and engineering.
+- 👀 I am Elizabeth Thuo, a deep learning  and machine learning practioner and learner.
+- 🌱 Solving a problem and gaining insights with the help of ML is a passion for me. I am here to solve things, learning a lot in the process.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 reach me if you are interested in chatting about anything machine learning or deep learning.
+
+
+
+
 
 <!---
 wildformat/wildformat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
